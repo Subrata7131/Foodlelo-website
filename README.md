@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Preview
-*(Once you host the project on GitHub Pages, paste your live link here)* [View Live Demo](https://your-username.github.io/Foodlelo-Website/)
+*(Once you host the project on GitHub Pages, paste your live link here)* [View Live Demo](https://subrata7131.github.io/Foodlelo-website/)
 
 ---
 
